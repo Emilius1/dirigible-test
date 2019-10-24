@@ -1,0 +1,4 @@
+{
+	"description": "Extension Point for the test-prj Menu Providers",
+	"name": "launchpad-test-prj-menu"
+}

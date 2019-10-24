@@ -1,0 +1,4 @@
+{
+	"description": "Extension Point for the cars Tiles Providers",
+	"name": "launchpad-cars-tiles"
+}

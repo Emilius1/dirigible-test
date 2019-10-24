@@ -1,0 +1,5 @@
+{
+	"description": "cars menu",
+	"extensionPoint": "shell-test-prj-menu",
+	"module": "test-prj/views/cars/menu/item.js"
+}

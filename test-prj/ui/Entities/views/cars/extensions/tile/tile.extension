@@ -1,0 +1,5 @@
+{
+	"description": "Entities tiles",
+	"extensionPoint": "launchpad-cars-tiles",
+	"module": "test-prj/ui/Entities/views/cars/extensions/tile/tile.js"
+}

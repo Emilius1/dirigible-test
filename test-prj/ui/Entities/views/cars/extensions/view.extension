@@ -1,0 +1,5 @@
+{
+	"description": "cars view",
+	"extensionPoint": "launchpad-cars-Entities-view",
+	"module": "test-prj/ui/Entities/views/cars/extensions/view.js"
+}

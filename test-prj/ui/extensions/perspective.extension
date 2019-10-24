@@ -1,0 +1,5 @@
+{
+	"description": "Home perspective",
+	"extensionPoint": "launchpad-cars-perspective",
+	"module": "test-prj/ui/extensions/perspective.js"
+}

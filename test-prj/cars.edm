@@ -1,0 +1,10 @@
+<model>
+ <entities>
+  <entity name="cars" dataName="CARS" dataCount="SELECT COUNT(*) FROM CARS" dataQuery="" type="PRIMARY" title="cars" tooltip="cars" icon="file-o" menuKey="cars" menuLabel="cars" menuIndex="100" layoutType="MANAGE" perspectiveName="Entities" perspectiveIcon="files-o" perspectiveOrder="100">
+    <property name="CAR_ID" dataName="CAR_ID" dataType="INTEGER" dataLength="0" dataNullable="false" dataPrimaryKey="true" dataAutoIncrement="true" dataUnique="true" widgetType="TEXTBOX" widgetLength="20" widgetIsMajor="true"></property>
+    <property name="model" dataName="MODEL" dataType="VARCHAR" dataLength="20" dataNullable="false" dataPrimaryKey="true" dataAutoIncrement="true" dataUnique="true" widgetType="TEXTBOX" widgetLength="20" widgetIsMajor="true"></property>
+    <property name="brand" dataName="BRAND" dataType="VARCHAR" dataLength="20" dataNullable="false" dataPrimaryKey="true" dataAutoIncrement="true" dataUnique="true" widgetType="TEXTBOX" widgetLength="20" widgetIsMajor="true"></property>
+  </entity>
+ </entities>
+ <mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" style="entity" vertex="1" parent="1"><Entity name="cars" dataName="CARS" dataCount="SELECT COUNT(*) FROM CARS" title="cars" tooltip="cars" menuLabel="cars" type="Entity" menuKey="cars" as="value"/><mxGeometry x="160" y="50" width="200" height="106" as="geometry"><mxRectangle width="200" height="28" as="alternateBounds"/></mxGeometry></mxCell><mxCell id="3" vertex="1" connectable="0" parent="2"><Property name="CAR_ID" dataName="CAR_ID" dataType="INTEGER" dataLength="0" dataPrimaryKey="true" dataAutoIncrement="true" as="value"/><mxGeometry y="28" width="200" height="26" as="geometry"/></mxCell><mxCell id="4" vertex="1" connectable="0" parent="2"><Property name="model" dataName="MODEL" as="value"/><mxGeometry y="54" width="200" height="26" as="geometry"/></mxCell><mxCell id="5" vertex="1" connectable="0" parent="2"><Property name="brand" dataName="BRAND" as="value"/><mxGeometry y="80" width="200" height="26" as="geometry"/></mxCell></root></mxGraphModel>
+</model>
